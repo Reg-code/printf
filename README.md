@@ -247,8 +247,8 @@ Conversion specifiers to handle: d, i, u, o, x, X
 #
 ### Authors
 
-*  Mario Ojeifo
-* Durojaiye Rebecca
+*	Mario Ojeifo
+* 	Durojaiye Rebecca
 
 ### Acknowledgments
 
